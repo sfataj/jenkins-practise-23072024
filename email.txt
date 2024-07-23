@@ -1,1 +1,2 @@
-this is an email notification 
+this is an email notification is working
+ 
